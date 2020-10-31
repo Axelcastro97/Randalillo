@@ -1,0 +1,58 @@
+#banner {
+    background-image: linear-gradient(rgba(12, 12, 12, 0.541),rgba(105, 105, 105, 0.568)), url("../img/hero/3.jpg");
+    background-image: no-repeat;
+    background-image: fixed;
+    background-image: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 150px 0;
+ }
+
+ 
+ #banner .intro-info h2{
+   color: white;
+   font-size: 30px;
+   font-weight: 700;
+
+}
+ 
+
+ #banner h2 {
+   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+   text-transform: uppercase;
+   text-align: center;
+   font-size: 30px;
+   font-weight: 700;
+}
+ 
+
+#banner .intro-info h2 span {
+  color: #42b2d4;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.intro-info .btn-get{
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 15px 32px;
+  border-radius: 30px;
+  margin-top: 20px;
+  transition: 0.5s;
+  color: #fff;
+  background: rgba(26,161,214,1);
+  background: -moz-linear-gradient(left, hsl(197, 78%, 47%) 0%, rgba(19,57,124,1) 100%);
+  background: linear-gradient(to right, rgb(26, 161, 214) 0%, rgba(19,57,124,1) 100%);
+  color: #fff;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.intro-info .btn-get:hover{  
+    background: rgba(176, 178, 184, 0.383);
+}  

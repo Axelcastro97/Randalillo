@@ -1,0 +1,26 @@
+@import url('Nav.css');
+@import url('Hero.css');
+@import url('Somos.css');
+@import url('Card1.css');
+@import url('Card2.css');
+@import url('Contact.css');
+@import url('Footer.css');
+@import url('card3.css');
+
+body {
+     margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+

@@ -1,0 +1,23 @@
+ nav ul li {
+         list-style-type:none;
+          text-align: center;
+          position:relative;
+          display: inline;
+          padding: 10px;
+       }
+
+nav li a {
+       text-decoration:none;
+       font-size:15px;
+       font-weight: 700;
+       font-family: sans-serif;
+       overflow: hidden;
+       transition: 0.7s all;
+       text-transform: uppercase;
+       padding: 14px 30px;
+       }
+
+nav a:hover {
+	          cursor: pointer;
+	          color: #3879E7!important;
+	} 
